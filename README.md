@@ -23,9 +23,6 @@ The project aims to detect network anomalies through supervised machine learning
   - `02_Data_Preprocessing.ipynb`: Feature engineering, data cleaning, and transformation steps.
   - `03_Model_Training_and_Evaluation.ipynb`: Training, evaluation, and visual comparison of ML models.
 
-- **scripts/**  
-  Python scripts for automated data preprocessing and modeling execution.
-
 - **reports/**  
   Final project documentation and detailed report.
 
