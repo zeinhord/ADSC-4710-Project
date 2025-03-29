@@ -36,4 +36,26 @@ git clone [your-repo-url]
 cd network-anomaly-detection
 ```
 
+### Step 2: Install Dependencies
+```bash
 pip install -r requirements.txt
+```
+
+## 🔧 Executing the Project
+
+You can run each Jupyter Notebook in the following order:
+
+### Step 1: Data Exploration
+```bash
+jupyter notebook notebooks/01_Data_Exploration.ipynb
+```
+
+### Step 2: Data Preprocessing
+```bash
+jupyter notebook notebooks/02_Data_Preprocessing.ipynb
+```
+
+### Step 3: Model Training and Evaluation
+```bash
+jupyter notebook notebooks/03_Model_Training_and_Evaluation.ipynb
+```
