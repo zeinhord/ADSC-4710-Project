@@ -27,3 +27,13 @@ The project aims to detect network anomalies through supervised machine learning
   Final project documentation and detailed report.
 
 ---
+
+## 🚀 Getting Started (Setup & Installation)
+
+### Step 1: Clone Repository
+```bash
+git clone [your-repo-url]
+cd network-anomaly-detection
+```
+
+pip install -r requirements.txt
