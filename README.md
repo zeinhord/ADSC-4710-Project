@@ -2,6 +2,8 @@
 
 This repository contains the complete implementation of a machine learning project for detecting anomalies in network traffic, leveraging the UNSW-NB15 dataset.
 
+Dataset Sourced from: https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15/data
+
 ---
 
 ## 📌 Project Overview
@@ -13,7 +15,7 @@ The project aims to detect network anomalies through supervised machine learning
 ## 📂 Repository Structure
 
 - **datasets/**  
-  Contains the original UNSW-NB15 dataset (training and testing sets).
+  Contains the original UNSW-NB15 training dataset (testing set is too big, pls download directly from the source).
 
 - **notebooks/**  
   Jupyter Notebooks detailing each step of the project:
