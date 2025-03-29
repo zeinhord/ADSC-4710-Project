@@ -32,7 +32,7 @@ The project aims to detect network anomalies through supervised machine learning
 
 ### Step 1: Clone Repository
 ```bash
-git clone [your-repo-url]
+git clone [https://github.com/zeinhord/network-anomaly-detection.git]
 cd network-anomaly-detection
 ```
 
