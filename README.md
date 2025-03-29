@@ -5,6 +5,15 @@ This repository contains the complete implementation of a machine learning proje
 Dataset Sourced from: https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15/data
 
 ---
+## 👥 Contributors
+
+Ivan Leonychev (T00727314)
+- Data preprocessing, feature engineering, model implementation, documentation, and GitHub management.
+
+Polina Kniazeva (T00704993)
+- Initial dataset analysis, exploratory data analysis, model training, evaluation, and visualization.
+
+---
 
 ## 📌 Project Overview
 
