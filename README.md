@@ -7,10 +7,10 @@ Dataset Sourced from: https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15/dat
 ---
 ## 👥 Contributors
 
-Ivan Leonychev (T00727314)
+Ivan Leonychev 
 - Data preprocessing, feature engineering, model implementation, documentation, and GitHub management.
 
-Polina Kniazeva (T00704993)
+Polina Kniazeva
 - Initial dataset analysis, exploratory data analysis, model training, evaluation, and visualization.
 
 ---
